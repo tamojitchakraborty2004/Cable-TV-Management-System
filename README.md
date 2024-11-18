@@ -123,15 +123,7 @@ This module consists of different email functions used for sending mail in diffe
 |BACK-END  | MS ACCESS 2016 |
 |OPERATING SYSTEM| WINDOWS 11|
 
-## HOW TO CONFIGURE ?
 
-Download the configuration file from [HERE](https://drive.google.com/file/d/1gpJTteHDgk-d2rXOw9ME2_xBn2aFPRdK/view?usp=sharing)  and add the correct path details of all required files. You can open it in any text editor and edit the file path accordingly. After making changes save the file inside the project folder. Don't change the file name.
-
-You can download the ms access database file from [HERE](https://drive.google.com/file/d/1fOcdSM6v0lvyPCpxwNL1YxHggQD8ZDjQ/view?usp=sharing). Download the file and save it inside the app_data folder inside the project folder. Don't forget to add the database path to Config.vb File.
-
-For the proper functioning of Auto Email add your own smtp userid and password in the fields smtpID and smtpPASS on config.vb file.
-
-## FORM DESIGNS
 
 ### ADMIN LOGIN:
 
